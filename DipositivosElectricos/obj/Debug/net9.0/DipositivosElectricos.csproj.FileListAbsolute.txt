@@ -1,0 +1,14 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\bin\Debug\net9.0\DipositivosElectricos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\bin\Debug\net9.0\DipositivosElectricos.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\bin\Debug\net9.0\DipositivosElectricos.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\bin\Debug\net9.0\DipositivosElectricos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\bin\Debug\net9.0\DipositivosElectricos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\refint\DipositivosElectricos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\DipositivosElectricos.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\DipositivosElectricos\obj\Debug\net9.0\ref\DipositivosElectricos.dll

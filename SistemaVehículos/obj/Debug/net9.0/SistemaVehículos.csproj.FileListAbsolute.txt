@@ -1,0 +1,14 @@
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\bin\Debug\net9.0\SistemaVehículos.exe
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\bin\Debug\net9.0\SistemaVehículos.deps.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\bin\Debug\net9.0\SistemaVehículos.runtimeconfig.json
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\bin\Debug\net9.0\SistemaVehículos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\bin\Debug\net9.0\SistemaVehículos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.AssemblyInfoInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.AssemblyInfo.cs
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.csproj.CoreCompileInputs.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\refint\SistemaVehículos.dll
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.pdb
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\SistemaVehículos.genruntimeconfig.cache
+C:\Users\rqm\OneDrive\Documentos\programaciones\InterfacesC\SistemaVehículos\obj\Debug\net9.0\ref\SistemaVehículos.dll
